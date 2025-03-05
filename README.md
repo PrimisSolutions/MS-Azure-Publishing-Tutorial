@@ -3,7 +3,7 @@ This application is the application created at the end of the MS guided learning
 
 The tutorial can be found here: [MS Learning](https://learn.microsoft.com/en-gb/training/modules/publish-aspnetcore-app/)
 
-You can find the deployed app here, but as it is deployed on a Free tier, it is very likely the page will not load: [Azure Publishing Tutorial](https://azurepublishingtutorial.azurewebsites.net/)
+The resources deployed for the app have been cleaned up in accordance with MS advisory, please see below for a screenshot from the application.
 
 ![An image showing a webpage displaying 'Hello World' text.](https://github.com/PrimisSolutions/MS-Azure-Publishing-Tutorial/blob/master/images/Deployed%20Website.png)
 
